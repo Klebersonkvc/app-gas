@@ -1,75 +1,35 @@
-# app-gas
 
-Projeto front-end (React + Vite) do sistema de gas.
+# App Gas Dashboard 🚀
 
-## Requisitos
-- Node.js + npm (versoes que suportem Vite 7)
+Aplicação web desenvolvida com React e Firebase para monitoramento de dados em tempo real utilizando arquitetura cliente-servidor.
 
-## Como rodar localmente
-1) Instale as dependencias:
-   ```bash
-   npm install
-   ```
-2) Inicie o servidor de desenvolvimento:
-   ```bash
-   npm run dev
-   ```
-3) Abra no navegador:
-   ```
-   http://localhost:5173
-   ```
+Projeto desenvolvido em equipe durante residência Front-End com foco em autenticação de usuários, integração com APIs REST e construção de dashboard responsivo.
 
-## Usando ngrok (para compartilhar o app)
-O projeto ja esta configurado para aceitar um host externo pelo Vite.
-Voce so precisa atualizar o dominio do ngrok no `vite.config.js`.
+---
 
-1) Rode o app:
-   ```bash
-   npm run dev
-   ```
-2) Em outro terminal, rode o ngrok apontando para a porta do Vite:
-   ```bash
-   ngrok http 5173
-   ```
-3) Copie a URL `https://...ngrok-free.dev` gerada e atualize:
-   - `vite.config.js` -> `server.allowedHosts`
-   - Substitua o dominio antigo pelo novo dominio do ngrok.
+## 🚀 Tecnologias utilizadas
 
-Depois disso, recarregue o navegador e use a URL do ngrok.
+React • JavaScript • Firebase • APIs REST • HTML • CSS • Git
 
-> Dica: se voce gerar um novo link do ngrok, precisa atualizar o
-> `allowedHosts` de novo.
+---
 
-## Build e preview
-- Gerar build de producao:
-  ```bash
-  npm run build
-  ```
-- Visualizar o build localmente:
-  ```bash
-  npm run preview
-  ```
+## 📊 Funcionalidades
 
-## Lint
-```bash
-npm run lint
-```
+✔️ Autenticação com Firebase Authentication  
+✔️ Dashboard interativo  
+✔️ Integração com APIs REST  
+✔️ Persistência de dados em nuvem  
+✔️ Interface responsiva  
+✔️ Componentização com React  
 
-## Testes
-Nao ha testes automatizados configurados neste projeto.
-Se precisar validar, use o lint e testes manuais na UI.
+---
 
-## Rotas principais
-- `/` (splash)
-- `/login`
-- `/cadastro`
-- `/suporte`
-- `/home`
-- `/dashboard`
-- `/dashgeral`
-- `/perfil`
-- `/cadastrar-gas`
-- `/editar-gas`
-- `/endereco`
-- `/admin/home`
-- `/admin/perfil`
+## 👨‍💻 Minha contribuição
+
+Atuei diretamente em:
+
+• construção da interface com React  
+• componentização de elementos reutilizáveis  
+• integração com Firebase  
+• ajustes de responsividade  
+• organização da estrutura do frontend

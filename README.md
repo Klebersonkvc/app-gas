@@ -1,6 +1,11 @@
 
 # App Gas Dashboard 🚀
 
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-yellow)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-orange)
+![API REST](https://img.shields.io/badge/API-REST-green)
+
 ## 📷 Preview da aplicação
 
 ![Preview do App Gas](preview.png.jpeg)

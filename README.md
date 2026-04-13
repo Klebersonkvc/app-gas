@@ -3,7 +3,7 @@
 
 ## 📷 Preview da aplicação
 
-![Preview do App Gas](preview.png)
+![Preview do App Gas](preview.png.jpeg)
 
 Aplicação web desenvolvida com React e Firebase para monitoramento de dados em tempo real utilizando arquitetura cliente-servidor.
 

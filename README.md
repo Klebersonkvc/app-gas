@@ -1,6 +1,10 @@
 
 # App Gas Dashboard 🚀
 
+## 📷 Preview da aplicação
+
+![Preview do App Gas](preview.png)
+
 Aplicação web desenvolvida com React e Firebase para monitoramento de dados em tempo real utilizando arquitetura cliente-servidor.
 
 Projeto desenvolvido em equipe durante residência Front-End com foco em autenticação de usuários, integração com APIs REST e construção de dashboard responsivo.
@@ -33,3 +37,7 @@ Atuei diretamente em:
 • integração com Firebase  
 • ajustes de responsividade  
 • organização da estrutura do frontend
+
+
+## 📷 Preview da aplicação
+
